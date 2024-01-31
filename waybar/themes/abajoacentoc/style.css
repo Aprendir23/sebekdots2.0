@@ -19,7 +19,7 @@
 @define-color border-color          @color10;
 @define-color button-color          @color12;
 @define-color button-hover          @color11;
-@define-color waybarbg              alpha(@color11, 0.5);
+@define-color waybarbg              alpha(@color10, 0.5);
 
 * {
 	font-size: 14px;
