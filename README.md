@@ -50,11 +50,15 @@ Hasta los momentos, no tengo errores en mi configuración, _en mi máquina_... P
 
 # Keybindings
 
-Super + D = Aplicaciones
-Super + N = Notificaciones
-Super + Enter = Kitty
-Super + Q = Cerrar Ventana
-Super + S = Abrir/Cerrar "Special Workspace"
-Super + Shift + S = Mover Ventana al "Special Workspace"
-Super + Shift + Q = Cargar tema clásico de Waybar (arriba/flotante/degradado negro a acento)
-Super + Shift + W = Recargar la configuración actual de Waybar
+- Super + D = Aplicaciones
+- Super + N = Notificaciones
+- Super + Enter = Kitty
+- Super + Q = Cerrar Ventana
+- Super + S = Abrir/Cerrar "Special Workspace"
+- Super + Shift + S = Mover Ventana al "Special Workspace"
+- Super + Shift + Q = Cargar tema clásico de Waybar (arriba/flotante/degradado negro a acento)
+- Super + Shift + W = Recargar la configuración actual de Waybar
+
+
+
+
