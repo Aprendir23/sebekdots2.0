@@ -42,7 +42,7 @@ Ahora cuentas con un conjunto de funciones y diferentes configuraciones de Wayba
 
 # Instalación
 
-Aún estoy desarrollando un script para instalar Arch desde cero con Hyprland + Sebekdots 1.0, pero mientras eso ocurre, para instalar los dotfiles (después de instalar todas las dependencias) es sólo una operación de copiar/pegar.
+Aún estoy desarrollando un script para instalar Arch desde cero con Hyprland + Sebekdots 2.0, pero mientras eso ocurre, para instalar los dotfiles (después de instalar todas las dependencias) es sólo una operación de copiar/pegar.
 
 # Reporte de errores
 
