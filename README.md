@@ -1,6 +1,4 @@
-# Sebekdots 1.0 - ¡Hyprland y Waybar al siguiente nivel!
-
-(Tomé la decisión de reiniciar el contador (sí, ya tengo otro repo con dotfiles de mis configuraciones) pero como ahora hay muchos más elementos dentro de mi Hyprland, tiene sentido que esta sea la versión 1.0)
+# Sebekdots 2.0 - ¡Hyprland y Waybar al siguiente nivel!
 
 Ahora cuentas con un conjunto de funciones y diferentes configuraciones de Waybar que llevan el ricing a otro nivel:
 - Cambio de esquema de colores + wallpaper con un click
@@ -8,7 +6,7 @@ Ahora cuentas con un conjunto de funciones y diferentes configuraciones de Wayba
 - Contador de actualizaciones (sólo para Arch Linux, funciona también contando las actualizaciones de AUR)
 - Rediseño de los módulos de Waybar para mejorar el look & feel
 - Centro de Notificaciones mejorado (esta mejora viene incluida en mis dotfiles anteriores)
-- Calendario emergente + indicadores emergentes para cada elemento de la barra
+- Calendario emergente + indicadores emergentes para cada elemento de la barra (con el esquema de colores generados por Pywal)
 
 ¡Y todo esto con el esquema de colores generados por el selector de wallpapers!
 
@@ -29,6 +27,7 @@ Ahora cuentas con un conjunto de funciones y diferentes configuraciones de Wayba
 - slurp
 - nm-applet
 - swaylock
+- trizen
 
 *Configuración del terminal:*
 
