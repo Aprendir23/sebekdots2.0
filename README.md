@@ -1,2 +1,60 @@
-# sebekdots
-Última configuración de Hyprland + Waybar en Arch Linux
+# Sebekdots 1.0 - ¡Hyprland y Waybar al siguiente nivel!
+
+(Tomé la decisión de reiniciar el contador (sí, ya tengo otro repo con dotfiles de mis configuraciones) pero como ahora hay muchos más elementos dentro de mi Hyprland, tiene sentido que esta sea la versión 1.0)
+
+Ahora cuentas con un conjunto de funciones y diferentes configuraciones de Waybar que llevan el ricing a otro nivel:
+- Cambio de esquema de colores + wallpaper con un click
+- 20 posibles combinaciones (arriba/abajo, barra clásica/sólida/traslúcida al 50% con colores de acentos, barra transparente al 30%/70%)
+- Contador de actualizaciones (sólo para Arch Linux, funciona también contando las actualizaciones de AUR)
+- Rediseño de los módulos de Waybar para mejorar el look & feel
+- Centro de Notificaciones mejorado (esta mejora viene incluida en mis dotfiles anteriores)
+- Calendario emergente + indicadores emergentes para cada elemento de la barra
+
+¡Y todo esto con el esquema de colores generados por el selector de wallpapers!
+
+# Esquema de temas para Waybar
+
+![sebekdots](https://github.com/andrewsebek/sebekdots/assets/121652305/b1931a97-48a3-4635-9abf-3c379aa6e408)
+
+# Dependencias 
+
+- nwg-bar
+- nwg-drawer
+- swaync (SwayNotificationCenter)
+- rofi
+- pywal
+- swww
+- grim
+- swappy
+- slurp
+- nm-applet
+
+*Configuración del terminal:*
+
+- Shell: ZSH
+- Tema de Shell: Oh-My-Zsh
+- Tema del prompt: Powerlevel10k
+- Plugins:
+  - git
+  - zsh-syntax-highlighting
+  - zsh-autosuggestions
+  - zsh-history-substring-search 
+
+# Instalación
+
+Aún estoy desarrollando un script para instalar Arch desde cero con Hyprland + Sebekdots 1.0, pero mientras eso ocurre, para instalar los dotfiles (después de instalar todas las dependencias) es sólo una operación de copiar/pegar.
+
+# Reporte de errores
+
+Hasta los momentos, no tengo errores en mi configuración, _en mi máquina_... Pero si por alguna razón los tienes en la tuya, escribe un pull request aquí o deja un comentario en el vídeo de YouTube.
+
+# Keybindings
+
+Super + D = Aplicaciones
+Super + N = Notificaciones
+Super + Enter = Kitty
+Super + Q = Cerrar Ventana
+Super + S = Abrir/Cerrar "Special Workspace"
+Super + Shift + S = Mover Ventana al "Special Workspace"
+Super + Shift + Q = Cargar tema clásico de Waybar (arriba/flotante/degradado negro a acento)
+Super + Shift + W = Recargar la configuración actual de Waybar
