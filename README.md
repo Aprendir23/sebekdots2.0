@@ -28,6 +28,7 @@ Ahora cuentas con un conjunto de funciones y diferentes configuraciones de Wayba
 - swappy
 - slurp
 - nm-applet
+- swaylock
 
 *Configuración del terminal:*
 
