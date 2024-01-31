@@ -14,6 +14,9 @@ Ahora cuentas con un conjunto de funciones y diferentes configuraciones de Wayba
 
 ![sebekdots](https://github.com/andrewsebek/sebekdots/assets/121652305/b1931a97-48a3-4635-9abf-3c379aa6e408)
 
+https://youtu.be/g1ANW1Ro-Z0
+Video explicando el funcionamiento de Sebekdots 2.0
+
 # Dependencias 
 
 - nwg-bar
